@@ -355,7 +355,7 @@ LINEAS_I=821
 
 ¿Por qué ese número es tan mayor que las 94 líneas de `programa.c`?
 
-> **R:Ya que varía según el sistema operativo y la versión del compilador, ademas lo importante no es el número exacto sino que sea varios cientos de veces más que las ~70 líneas del fuente original, lo cual es evidencia directa de que #include copia el contenido completo de los headers del sistema.** 
+> **R:Ya que varía según el sistema operativo y la versión del compilador, ademas lo importante no es el número exacto sino que sea varios cientos de veces más que las ~70 líneas del fuente original, lo cual es evidencia directa de que #include copia el contenido completo de los headers del sistema** 
 
 ---
 
